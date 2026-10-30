@@ -1,8 +1,7 @@
 <div align="center">
 
 <img src="./banner.svg" alt="Ravuri Vinay – Java Full Stack Developer" width="100%"/>
-[![Open to internships](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-ravuri)
-<img src="./assets/typing.svg" alt="Java Full Stack Developer · Spring Boot · React · TypeScript · AI &amp; ML" width="760"/>
+<h4>"Java Full Stack Developer · Spring Boot · React · TypeScript · AI &amp; ML</h4>
 
 <br/>
 
