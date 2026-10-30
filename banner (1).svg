@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ravuri Vinay - Java Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#0b3d2e"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#7ee787"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2ea043" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#2ea043" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+
+  <!-- animated glows -->
+  <circle cx="180" cy="80" r="170" fill="url(#glow1)">
+    <animate attributeName="cx" values="180;260;180" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="80;130;80" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1030" cy="230" r="190" fill="url(#glow2)">
+    <animate attributeName="cx" values="1030;940;1030" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="230;170;230" dur="11s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- floating code symbols -->
+  <g font-family="Consolas, 'Courier New', monospace" font-weight="700" fill="#ffffff" fill-opacity="0.16">
+    <text x="90" y="250" font-size="44">&lt;/&gt;</text>
+    <text x="1040" y="80" font-size="46">{ }</text>
+    <text x="930" y="260" font-size="40">TS</text>
+    <text x="240" y="60" font-size="34">( )</text>
+    <text x="1110" y="190" font-size="36">;</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="6s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- greeting -->
+  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="22" fill="#7ee787" letter-spacing="6" opacity="0">
+    HELLO, I'M
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.2s" fill="freeze"/>
+  </text>
+
+  <!-- name -->
+  <text x="600" y="170" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="76" font-weight="800" fill="url(#name)" opacity="0">
+    Ravuri Vinay
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.5s" fill="freeze"/>
+  </text>
+
+  <!-- underline -->
+  <rect x="450" y="188" height="4" rx="2" fill="#7ee787" width="0">
+    <animate attributeName="width" from="0" to="300" dur="1.2s" begin="1s" fill="freeze"/>
+    <animate attributeName="x" from="600" to="450" dur="1.2s" begin="1s" fill="freeze"/>
+  </rect>
+
+  <!-- title -->
+  <text x="600" y="235" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="26" fill="#e6edf3" opacity="0">
+    Java Full Stack Developer  •  AI &amp; ML Enthusiast
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="1.4s" fill="freeze"/>
+  </text>
+
+  <!-- subtle border -->
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+</svg>

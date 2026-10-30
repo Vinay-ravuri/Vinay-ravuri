@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60" role="img" aria-label="Java Full Stack Developer, Spring Boot, React, TypeScript, AI and ML">
+  <style>.t{font:600 24px 'Fira Code',Consolas,'Courier New',monospace;fill:#2ea043}</style>
+  <text x="450" y="38" text-anchor="middle" class="t" opacity="0">Java Full Stack Developer
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0000;0.0250;0.1650;0.2000;1" dur="20.0s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="38" text-anchor="middle" class="t" opacity="0">Spring Boot  •  React  •  TypeScript
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2000;0.2250;0.3650;0.4000;1" dur="20.0s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="38" text-anchor="middle" class="t" opacity="0">B.Tech CSE (AI &amp; ML)
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4000;0.4250;0.5650;0.6000;1" dur="20.0s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="38" text-anchor="middle" class="t" opacity="0">Exploring Machine Learning with Python
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6000;0.6250;0.7650;0.8000;1" dur="20.0s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="38" text-anchor="middle" class="t" opacity="0">Open to Internships &amp; Placements
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8000;0.8250;0.9650;1.0000;1" dur="20.0s" repeatCount="indefinite"/>
+  </text>
+  <rect x="0" y="0" width="900" height="60" fill="none"/>
+</svg>
