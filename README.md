@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Vinay-ravuri">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2EA043&center=true&vCenter=true&repeat=true&width=950&height=50&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+TypeScript;B.Tech+CSE+(AI+%26+ML);Exploring+Machine+Learning+with+Python;Open+to+Internships+%26+Placements" alt="Typing animation" />
-</a>
+</a> 
 
 <br/><br/>
 
